@@ -1,0 +1,12 @@
+{
+  "name": "hada-bookmarks-telegram",
+  "version": "0.1.0",
+  "description": "Telegram inline command UI for Hada/GeekNews bookmarks",
+  "type": "module",
+  "private": true,
+  "openclaw": {
+    "extensions": [
+      "./index.js"
+    ]
+  }
+}

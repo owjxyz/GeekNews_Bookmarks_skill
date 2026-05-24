@@ -1,0 +1,21 @@
+{
+  "id": "hada-bookmarks-telegram",
+  "name": "Hada Bookmarks Telegram UI",
+  "description": "Native Telegram inline command UI for saved Hada/GeekNews bookmarks.",
+  "version": "0.1.0",
+  "kind": "command",
+  "commandAliases": [
+    {
+      "name": "hada_bookmarks",
+      "kind": "runtime-slash"
+    }
+  ],
+  "activation": {
+    "onStartup": true,
+    "onCommands": ["hada_bookmarks"]
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": true
+  }
+}
