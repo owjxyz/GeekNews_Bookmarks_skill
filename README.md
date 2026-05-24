@@ -1,4 +1,4 @@
-# GeekNews/Hada Bookmarks Skill + Telegram Plugin
+# GeekNews Bookmarks Skill + Telegram Plugin
 
 GeekNews 긱뉴스 기사를 모니터링하고 저장/조회/삭제할 수 있는 OpenClaw Agent 스킬과 Telegram 슬래시 커맨드 플러그인입니다.
 
